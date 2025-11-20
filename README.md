@@ -42,5 +42,4 @@ matplotlib, seaborn – for data visualization
 Integrate content-based filtering (based on movie genres or metadata).
 Build a hybrid recommendation system combining CF and content-based methods.
 Deploy the model as a web app using Streamlit or FastAPI.
-
 Add real-time recommendation updates using an MLOps pipeline (MLflow + CI/CD + Kubernetes).
